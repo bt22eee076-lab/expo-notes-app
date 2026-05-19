@@ -1,23 +1,3 @@
-<h1 align="center">React Native for Babies 👶</h1>
-
-
-
-Welcome to the **React Native To‑Do App Tutorial**!  
-In this one‑stop tutorial you’ll build a fully functional **real‑time to‑do application** that runs on **iOS, Android, and the web**—all with **React Native + Expo**, and **Convex**.
-
----
-
-## 🎯 What You'll Build
-
-This isn’t just a UI prototype—this is a **real, full‑stack, real‑time to‑do app**.
-
-✅ Works on **physical devices & simulators** (Android / iOS)  
-✅ Everything updates **instantly** across users (create, complete, delete)  
-✅ No native Swift / Kotlin required—just JavaScript & React Native  
-✅ From ZERO → to HERO in **one video**
-
----
-
 ## 🧑‍🍳 App Features Overview
 
 - 📝 **Todos Tab**
