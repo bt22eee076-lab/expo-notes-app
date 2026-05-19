@@ -1,6 +1,6 @@
 <h1 align="center">React Native for Babies 👶</h1>
 
-![Demo App](/assets/images/screenshot-for-readme.png)
+
 
 Welcome to the **React Native To‑Do App Tutorial**!  
 In this one‑stop tutorial you’ll build a fully functional **real‑time to‑do application** that runs on **iOS, Android, and the web**—all with **React Native + Expo**, and **Convex**.
